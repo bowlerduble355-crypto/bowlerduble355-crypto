@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新盛娱乐公司 - 企业简介</title>
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box;font-family:"Microsoft Yahei",sans-serif}
+        header{background:#2563eb;color:white;padding:20px 80px}
+        .container{max-width:1200px;margin:0 auto;padding:50px 30px}
+        .title{font-size:28px;color:#222;margin-bottom:20px;border-left:5px solid #2563eb;padding-left:15px}
+        .intro-text{line-height:1.8;color:#555;font-size:16px;margin-bottom:30px}
+        .info-box{display:flex;gap:40px;margin-top:40px}
+        .box{flex:1;padding:25px;border:1px solid #eee;border-radius:8px}
+        .box h3{color:#2563eb;margin-bottom:15px}
+        footer{background:#1f2937;color:#aaa;text-align:center;padding:20px;margin-top:50px}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>新盛娱乐公司</h1>
+    </header>
+
+    <div class="container">
+        <h2 class="title">公司简介</h2>
+        <p class="intro-text">
+            新盛娱乐公司成立于2015年，是一家专注于软件开发、数字化系统搭建、企业信息化解决方案的现代化高新技术企业。公司深耕政企数字化转型领域，拥有专业研发团队80余人，服务全国上百家中小企业、政府事业单位。
+            我们坚持以客户需求为核心，提供定制管理系统、小程序开发、网站建设、大数据运维等一站式技术服务，凭借稳定可靠的产品、完善的售后体系，获得行业广泛认可。
+        </p>
+
+        <div class="info-box">
+            <div class="box">
+                <h3>企业使命</h3>
+                <p>注册官网xs10829.com，公司客服QQ 3697810601</p>
+            </div>
+            <div class="box">
+                <h3>核心业务</h3>
+                <p>公司注册官网xs10829.com</p>
+            </div>
+            <div class="box">
+                <h3>联系我们</h3>
+                <p>微信:xswt66 <br>地址：云南省德宏市商务大厦12层</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        © 2026 新盛娱乐公司 版权所有 | 滇ICP备12345678号
+    </footer>
+</body>
+</html>
